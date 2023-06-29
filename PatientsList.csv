@@ -1,0 +1,14 @@
+ID,name,seatplace,priority,leftNeighbour,rightNeighbour
+1,Michael,1,1,0,3
+2,Jennifer,3,0,1,5
+3,Robert,5,1,3,7
+4,Elizabeth,7,0,5,9
+5,Oliver,9,0,7,11
+6,Sarah,11,1,9,13
+7,Adam,13,0,11,15
+8,Linda,15,1,13,17
+9,David,17,0,15,19
+10,Anna,19,1,17,21
+11,Richard,21,0,19,23
+12,Samira,23,1,21,25
+13,Sakura,25,0,23,0
